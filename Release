@@ -1,8 +1,15 @@
 Origin: kupr_4 Repo
-Label: kupr_4 Repo
+
+Label: Demo
+
 Suite: stable
-Version: 2.0
-Codename: ios
+
+Version: 0.3
+
+Codename: repo
+
 Architectures: iphoneos-arm
+
 Components: main
-Description: kups Repo
+
+Description: Repository kupr_4
