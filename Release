@@ -1,0 +1,8 @@
+Origin: kupratopolis Repo
+Label: kupratopolis Repo
+Suite: stable
+Version: 2.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: kups Repo
