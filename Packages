@@ -1,31 +1,3 @@
-Package: kups.kupr4.bubblegum
-Version: 1.7
-Architecture: iphoneos-arm
-Maintainer: kupr_4 <kupratopia@icloud.com>
-Filename: deb/chicle.deb
-Size: 11813728
-MD5sum: 32d68ead4426a4f980ab296e9ee2f85e
-SHA1: 25bf160711458906ae26d4f125fd00bf606b3213
-SHA256: 0c6cbfbd94531da0aef9842b70b945bd6324dd3f65464e5f8a90152462f8d6e7
-Section: Themes
-Description: Tema chicloson.
-Author: kups
-Name: Chicle
-
-Package: kups.kupr4.classicios
-Version: 1.3
-Architecture: iphoneos-arm
-Maintainer: kupr_4 <kupratopia@icloud.com>
-Filename: deb/i6.deb
-Size: 8417432
-MD5sum: 5fdd1b8ac2bad71ded2ba7096ec80cc9
-SHA1: 70f6f169bf59adec8f32acf165bd508a78606ef5
-SHA256: a71e42d33149bd70d662fcdc9b570b8504a93678565221bcd61fed709e82eb4b
-Section: Themes
-Description: iOS 6.
-Author: kups
-Name: iOS6
-
 Package: kups.kupr4.txt
 Version: 9.0
 Architecture: iphoneos-arm
