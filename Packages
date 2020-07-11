@@ -11,17 +11,3 @@ Section: Utilities
 Description: Editor de texto para todos.
 Author: kups
 Name: Textastic
-
-Package: kups.kupr4.st
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: kupr_4 <kupratopia@icloud.com>
-Filename: deb/st.deb
-Size: 49637276
-MD5sum: 0712f6716207bc4199369f2624985dd3
-SHA1: 07adfaaaeb996133704d284309c24e55e7a50aa2
-SHA256: 061d98ea85ac914b17f991a7b1fe63abf358b1937fc83f20579694454cd5a3de
-Section: Utilities
-Description: SpeedTest Pro.
-Author: kups
-Name: SpeedTest Pro
