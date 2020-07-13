@@ -3,11 +3,25 @@ Version: 9.0
 Architecture: iphoneos-arm
 Maintainer: kupr_4 <kupratopia@icloud.com>
 Filename: deb/txt.deb
-Size: 5653992
-MD5sum: ca43ab99f9c0ae66646141a9a28c6a07
-SHA1: 8a18a57dfee594ea2cb52159731bcc9f15859bb6
-SHA256: aeccd136fca6a2d82af7a35ca77ad136dc72ca774e7d82b72bb23b3797ee9036
+Size: 5652108
+MD5sum: fa8542749bcdd8bb67b9ed71ca3d9825
+SHA1: 56a18b68d0e36720a009977881d4dcf2a919a534
+SHA256: 2793dd245fe23302e0d849750b8ee6c504a0506abc9f7fe015f7a13cf53393db
 Section: Utilities
 Description: Editor de texto para todos.
 Author: kups
 Name: Textastic
+
+Package: kups.kupr4.bubblegum
+Version: 1.7
+Architecture: iphoneos-arm
+Maintainer: kupr_4 <kupratopia@icloud.com>
+Filename: deb/chicle.deb
+Size: 11813496
+MD5sum: 01ba701dd31333346d7488e21fa8d15c
+SHA1: af61ea431d2a3ebb898f0a5b14fbac0f46f74796
+SHA256: ce81bb64c50019cb90caa209ae1b8a82b701118639d70bdab259a532091a1603
+Section: Themes
+Description: Tema chicloson.
+Author: kups
+Name: Chicle
