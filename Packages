@@ -72,7 +72,6 @@ Package: kups.kupr4.like
 Version: 0.1
 Architecture: iphoneos-arm
 Maintainer: kupr_4 <kupratopia@icloud.com>
-Depends: ToneEnabler
 Filename: deb/like.deb
 Size: 334432
 MD5sum: 68681e9677e8fc04bfccf282319453b0
@@ -87,7 +86,6 @@ Package: kups.kupr4.maq
 Version: 0.1
 Architecture: iphoneos-arm
 Maintainer: kupr_4 <kupratopia@icloud.com>
-Depends: ToneEnabler
 Filename: deb/maq.deb
 Size: 658444
 MD5sum: 946ecef3f46ba4733b8625b05cc7873b
