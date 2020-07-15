@@ -97,3 +97,17 @@ Section: Ringtones
 Description: Mecano-Maquillaje.
 Author: Mecano
 Name: Maquillaje
+
+Package: kups.kupr4.te
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: kupr_4 <kupratopia@icloud.com>
+Filename: deb/te.deb
+Size: 20220
+MD5sum: b8b923fc9da8501ab421e2ae45f37379
+SHA1: 1819b7fdfe2bb01345e62dc04dcb2e578c86ef97
+SHA256: 1ede7de3bdce643b22b941b171aa106454574ab30c8fb78e1c9c61b2c38d4748
+Section: Utilities
+Description: Activador de tonos.
+Author: kups
+Name: ToneEnabler
