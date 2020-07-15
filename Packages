@@ -67,3 +67,31 @@ Section: Utilities
 Description: SpeedTest Pro.
 Author: kups
 Name: SpeedTest Pro
+
+Package: kups.kupr4.like
+Version: 0.1
+Architecture: iphoneos-arm
+Maintainer: kupr_4 <kupratopia@icloud.com>
+Filename: deb/like.deb
+Size: 334432
+MD5sum: 68681e9677e8fc04bfccf282319453b0
+SHA1: afa16dc1ea0183a95e5773418ff930c88fce7129
+SHA256: d2b5db0fddf7750725c8c7aa74820504b31324dacdbbd2672ff724b74e0ed766
+Section: Ringtones
+Description: Disco Bum-I Like(Phunk Investigation Remix).
+Author: Disco Bum
+Name: I Like(Phunk Investigation Remix)
+
+Package: kups.kupr4.maq
+Version: 0.1
+Architecture: iphoneos-arm
+Maintainer: kupr_4 <kupratopia@icloud.com>
+Filename: deb/maq.deb
+Size: 658444
+MD5sum: 946ecef3f46ba4733b8625b05cc7873b
+SHA1: 0281a0abb89d778a9260d1f314c709e43de9bafc
+SHA256: 2a96bbf727d91b6ec0628aa5cff792ff0ee34a04be8b2b85ad6025af209f42c5
+Section: Ringtones
+Description: Mecano-Maquillaje.
+Author: Mecano
+Name: Maquillaje
