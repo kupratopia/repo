@@ -53,17 +53,3 @@ Section: Utilities
 Description: Impresión inalambrica para todos.
 Author: kups
 Name: Printer Pro
-
-Package: kups.kupr4.st
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: kupr_4 <kupratopia@icloud.com>
-Filename: deb/st.deb
-Size: 49639216
-MD5sum: b12fa91330a0191d8e46be330c3dee0e
-SHA1: fd1a93ee3441c7bc5f6c18650c77ea488e53e1a1
-SHA256: 6793d1440691495efdfa0352427fb76053caee6918a86a8bb3333558ed6d1dbd
-Section: Utilities
-Description: SpeedTest Pro.
-Author: kups
-Name: SpeedTest Pro
