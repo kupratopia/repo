@@ -53,3 +53,31 @@ Section: Utilities
 Description: Impresión inalambrica para todos.
 Author: kups
 Name: Printer Pro
+
+Package: kups.kupr4.bigsur
+Version: 1.0.6
+Architecture: iphoneos-arm
+Maintainer: kupr_4 <kupratopia@icloud.com>
+Filename: deb/BigSur.deb
+Size: 60014096
+MD5sum: bc59bfafe69255ed288a0dec15ac4cdb
+SHA1: 5f04956ec9186b1ec19fa2e78d02e76ea05188e9
+SHA256: 61fc6a33c71f20da5be9963dd33fdc428cb138fda1a1e13ba183ad0609cf87a2
+Section: Themes
+Description: MacOS 11.0.
+Author: kups
+Name: Big Sur
+
+Package: kups.kupr4.3D
+Version: 2.0.0
+Architecture: iphoneos-arm
+Maintainer: kupr_4 <kupratopia@icloud.com>
+Filename: deb/3D.deb
+Size: 45443924
+MD5sum: 4eb25b446c7c282c4a91cd1d9333b34b
+SHA1: 66ff8e52d8df4fc430eca39d24cfbbb56600ec5a
+SHA256: 176da98578da33e21589ff6d098af0239c088c7677a053a9d52a20e566a2efa2
+Section: Themes
+Description: Tema 3D.
+Author: kups
+Name: 3D
