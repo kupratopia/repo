@@ -57,6 +57,7 @@ Name: Printer Pro
 Package: kups.kupr4.bigsur
 Version: 1.0.6
 Architecture: iphoneos-arm
+Depends: com.spark.snowboard
 Maintainer: kupr_4 <kupratopia@icloud.com>
 Filename: deb/BigSur.deb
 Size: 60014096
