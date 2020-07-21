@@ -73,10 +73,10 @@ Version: 2.0.0
 Architecture: iphoneos-arm
 Maintainer: kupr_4 <kupratopia@icloud.com>
 Filename: deb/3D.deb
-Size: 45443924
-MD5sum: 4eb25b446c7c282c4a91cd1d9333b34b
-SHA1: 66ff8e52d8df4fc430eca39d24cfbbb56600ec5a
-SHA256: 176da98578da33e21589ff6d098af0239c088c7677a053a9d52a20e566a2efa2
+Size: 28990840
+MD5sum: 9f4138171203674fc966d5981913d374
+SHA1: d1f57c2dc7e4d39be10109c9b02fb066e6da41f8
+SHA256: d6c06f66074c07e6089031fd4a9822d1b0577e1d3c55aea889805731e6f74447
 Section: Themes
 Description: Tema 3D.
 Author: kups
