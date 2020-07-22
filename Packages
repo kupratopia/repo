@@ -59,10 +59,10 @@ Version: 1.0.6
 Architecture: iphoneos-arm
 Maintainer: kupr_4 <kupratopia@icloud.com>
 Filename: deb/BigSur.deb
-Size: 60014096
-MD5sum: bc59bfafe69255ed288a0dec15ac4cdb
-SHA1: 5f04956ec9186b1ec19fa2e78d02e76ea05188e9
-SHA256: 61fc6a33c71f20da5be9963dd33fdc428cb138fda1a1e13ba183ad0609cf87a2
+Size: 60013940
+MD5sum: 530ff8b93150d78f3ca79154a0e93e82
+SHA1: 5bed395051420b19fd47fa0799d757211af1962f
+SHA256: ae7c79b4a76f5db8d783eb81bba71050506d151e15dbeacfa410225681c27eec
 Section: Themes
 Description: MacOS 11.0.
 Author: kups
