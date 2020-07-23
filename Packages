@@ -82,20 +82,6 @@ Description: Tema 3D.
 Author: kups
 Name: 3D
 
-Package: kups.kupr4.aesir
-Version: 1.3-5
-Architecture: iphoneos-arm
-Maintainer: kupr_4 <kupratopia@icloud.com>
-Filename: deb/aesir.deb
-Size: 3296892
-MD5sum: 99bc1a78134dd4d3a0c5e3bdb3b1dbf6
-SHA1: 11ce1b65ea4dcee8a60eb2915a4d381b3de5e5f9
-SHA256: db9258c6d2d2f4724616523d70551011be543fa92b01694c3feddb6b41f67a0c
-Section: Themes
-Description: Tema Aesir Pro.
-Author: kups
-Name: Aesir Pro
-
 Package: kups.kupr4.aurora
 Version: 0.7
 Architecture: iphoneos-arm
